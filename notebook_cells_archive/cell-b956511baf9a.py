@@ -1,0 +1,1 @@
+cd /workspace && python3 fig_v4.py

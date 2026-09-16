@@ -1,0 +1,1 @@
+cd /workspace && python md2docx.py

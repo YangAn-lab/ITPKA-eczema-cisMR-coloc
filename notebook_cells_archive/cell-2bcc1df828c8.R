@@ -1,0 +1,1 @@
+cd /workspace/fgf2 && R_LIBS_USER=/workspace/.Rlib Rscript run_fgf2_coloc.R 2>&1 | tail -12

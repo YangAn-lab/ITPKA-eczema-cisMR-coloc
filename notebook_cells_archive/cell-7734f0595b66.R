@@ -1,0 +1,1 @@
+cd /workspace/coloc_panel && R_LIBS_USER=/workspace/.Rlib Rscript run_coloc_susie.R 2>&1 | grep -v "HINT\|max iterations\|converged" | tail -20

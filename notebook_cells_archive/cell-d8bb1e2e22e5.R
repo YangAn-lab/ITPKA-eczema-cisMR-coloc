@@ -1,0 +1,2 @@
+g8 = pd.read_csv('/workspace/coloc_panel/coloc_gtexv8wb_extended_results.csv')
+print(g8[['gene','endpoint','nsnps','PP.H3','PP.H4','PP.H4_p12_1e6','PP.H4_p12_1e4','min_p_eqtl','median_tpm','note']].to_string(index=False))

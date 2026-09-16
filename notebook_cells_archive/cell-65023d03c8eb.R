@@ -1,0 +1,1 @@
+cd /workspace/coloc_panel && Rscript run_coloc_panel_extended.R 2>&1 | tail -35

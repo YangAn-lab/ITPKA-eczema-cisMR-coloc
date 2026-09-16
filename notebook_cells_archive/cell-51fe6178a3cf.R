@@ -1,0 +1,1 @@
+cd /workspace/coloc_panel && python3 make_ld.py

@@ -1,0 +1,1 @@
+exec(open('/workspace/make_genomics_package.py').read())

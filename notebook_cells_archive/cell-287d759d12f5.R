@@ -1,0 +1,1 @@
+cd /workspace/coloc_panel && Rscript diag_oliva_locus2.R 2>&1 | tail -30

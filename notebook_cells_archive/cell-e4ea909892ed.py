@@ -1,0 +1,1 @@
+cd /workspace && python3 fig_v4.py && ls -la P2-02_Figure*v4* P2-02_FigureS2* | awk '{print $5, $9}'

@@ -1,0 +1,1 @@
+cd /workspace/coloc_panel && Rscript run_coloc_oliva.R 2>&1 | tail -45

@@ -1,0 +1,1 @@
+cd /workspace/coloc_panel && R_LIBS_USER=/workspace/.Rlib Rscript run_coloc_panel.R 2>&1 | tail -60

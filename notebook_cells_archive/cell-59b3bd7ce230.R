@@ -1,0 +1,1 @@
+cd /workspace/coloc_panel && R_LIBS_USER=/workspace/.Rlib Rscript run_coloc_eqtlgen.R 2>&1 | tail -25

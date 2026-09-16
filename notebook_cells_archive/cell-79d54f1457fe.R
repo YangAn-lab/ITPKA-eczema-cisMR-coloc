@@ -1,0 +1,1 @@
+python3 /workspace/coloc_oliva/parse_phewas.py

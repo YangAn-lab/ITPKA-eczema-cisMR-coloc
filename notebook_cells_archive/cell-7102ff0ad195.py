@@ -1,0 +1,2 @@
+key = ext[ext['gene'].isin(['NUSAP1','OIP5','RTF1','OIP5-AS1'])]
+print(key[['gene','endpoint','nsnps','PP.H0','PP.H1','PP.H2','PP.H3','PP.H4','PP.H4_p12_1e6','PP.H4_p12_1e4','PP.H4_w250','PP.H4_w125','min_p_eqtl','lead_eqtl_rsid']].to_string(index=False))
