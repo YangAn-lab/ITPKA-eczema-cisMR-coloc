@@ -1,0 +1,1 @@
+cd /workspace/coloc_panel && R_LIBS_USER=/workspace/.Rlib Rscript run_window_sensitivity.R 2>&1 | tail -25

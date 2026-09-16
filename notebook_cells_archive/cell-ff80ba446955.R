@@ -1,0 +1,1 @@
+python3 /workspace/coloc_oliva/categorize_phewas.py && cp /workspace/coloc_oliva/phewas_rs11635906_categorized.csv "/mnt/results/P2-02_PheWAS_rs11635906.csv" && cp /workspace/coloc_oliva/phewas_rs11635906_full.csv /mnt/results/P2-02_PheWAS_rs11635906_全表.csv && ls -la /mnt/results/P2-02_PheWAS* | awk '{print $5, $9}'
